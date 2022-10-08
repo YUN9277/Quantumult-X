@@ -2,6 +2,9 @@
 
 
 
+ss://Y2hhY2hhMjAtcG9seTEzMDU6Y0ZsWGRtVk9WRWMwY1dkd2VFTm1UVVpNVW5OQlUzQkljRGR6T0VSVE4xZFRaamxSYjJWT1MyWlhZM2xRYVVoT2NFNVNkWFZHWTNaVVIxZzJZWFk0T0E9PUBqYy5saXR0bGVzaXRlLm1sOjI4MDQ1#%E9%9F%A9%E5%9B%BD
+
+
 
 shadowsocks=yzyd-01.cctelescope.xyz:20001, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=112248:Nn5xo6IWwH, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=香港_R_275
 
