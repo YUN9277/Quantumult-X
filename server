@@ -12,6 +12,11 @@
 
 
 
+
+
+
+
+
 shadowsocks=yzyd-01.cctelescope.xyz:20001, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=112248:Nn5xo6IWwH, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=香港_R_275
 
 shadowsocks=sh163.safetelescope.cc:12021, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=112248:Nn5xo6IWwH, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=香港_R_120
