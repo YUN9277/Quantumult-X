@@ -1,0 +1,11 @@
+
+
+
+
+
+hostname = purefast.net
+
+
+#机场签到
+
+https:\/\/purefast\.net\/user url script-request-header https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkincookie_env.js
